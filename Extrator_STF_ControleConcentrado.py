@@ -1,5 +1,6 @@
 import dsd
 
+
 # Definição dos parâmetros de busca
 Classe = "ADI"
 NumeroInicial = 5500
